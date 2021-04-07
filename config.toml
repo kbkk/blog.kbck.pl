@@ -1,0 +1,12 @@
+baseURL = "https://blog.kbck.pl/"
+languageCode = "en-us"
+title = "👀"
+theme = "hyde-hyde"
+
+[params.social]
+	twitter = "kbkk_pl"
+	github = "kbkk"
+
+[params]
+    description = "Jakub Kisielewski's Software Blog"
+
