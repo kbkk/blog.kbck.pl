@@ -2,7 +2,7 @@ baseURL = "https://blog.kbck.pl/"
 languageCode = "en-us"
 title = "👀"
 theme = "hyde-hyde"
-googleAnalytics = "G-1RRL6NZ13Z"
+googleAnalytics = "194171347-1"
 
 [params.social]
     twitter = "kbkk_pl"
